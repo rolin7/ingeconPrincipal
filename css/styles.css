@@ -1,0 +1,21 @@
+.img-altura {
+    height: 210px;
+}
+
+.img-altura2{
+    height: 150px;
+}
+
+.img-altura3{
+    height: 120px;
+}
+
+.openBtn:hover {
+    background-color: #2c2c54;
+    color: blanchedalmond;
+}
+.spanHover:hover, .spanHover:hover span {
+    background-color: #2c2c54;
+    color: blanchedalmond;
+    cursor: pointer;
+}
