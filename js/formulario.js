@@ -12,10 +12,15 @@ async function handlerSubmit(event){
         'Accept': 'aplication/json'
     }
     });
+    function mensaje() {
+        alerta.innerHTML = "";
+        
+        }
 
     if (response.ok) {
         this.reset();
         console.log("Gracias por escribirme!!");
         alerta.innerHTML = `<div class="alert alert-success" role="alert">Su mensaje fue enviado con éxito!</div>`;
+        setTimeout(mensaje,5000);
     }
 }
