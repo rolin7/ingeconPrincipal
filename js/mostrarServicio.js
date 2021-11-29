@@ -12,10 +12,11 @@ let dato1 = `<p>Es el reconocimiento legal de la existencia de cualquier tipo de
 let dato2 = "Mediante una independización un propietario puede vender parte de su propiedad o repartirla entre sus hijos. Para que ello sea posible debe dividir su bien en dos o más predios independientes de manera que cada inmueble cuente con su propia partida registral.";
 let dato3 = "El saneamiento físico legal de predios es el trámite destinado a la regularización de la documentación de la propiedad del terreno en primer lugar, y luego de la construcción que se haya edificado sobre el predio (de ser el caso) con el objeto de obtener la titulación o acreditación idónea para su acceso a los Registros Públicos.";
 let dato4 = "La subdivisión de terreno es el procedimiento mediante el cual se autoriza la subdivisión de un lote matriz en dos o más sublotes, los mismos que deben cumplir, entre otros, con los requisitos mínimos normativos de área y frente de lote.";
-let dato5 = "La declaratoria de fábrica es la inscripción de una construcción en el Registro de Predios"+
-" correspondiente, donde se consignan las características y condiciones técnicas de una obra. Al"+
-" inscribir una declaratoria de fábrica, reconocemos el carácter legal de una determinada"+
-" construcción.";
+let dato5 = "Es el acto administrativo mediante el cual un gobierno local otorga al"+
+" administrador autorización para ejecutar una obra de edificación, es decir una construcción de"+
+" carácter permanente sobre un predio, que cuenta como mínimo con un proyecto de habilitación"+
+" urbana aprobado y cuyo destino es albergar a la persona en el desarrollo de sus actividades. "+
+" Las licencias de edificación se clasifican en cuatro modalidades (A, B, C y D)";
 let dato6 = " Las licencias para demoliciones son permisos emitidos por las autoridades municipales del lugar donde se ubica el predio. – Cada municipio puede establecer requisitos diferentes para emitir un permiso para demoler.";
 let dato7 = "El levantamiento topográfico es un estudio técnico y descriptivo de un terreno, examinando la superficie terrestre en la cual se tienen en cuenta las características físicas, geográficas y geológicas del terreno, pero también sus variaciones y alteraciones, se denomina a este acopio de datos o plano que refleja al detalle y sirve como instrumento de planificación para edificaciones y construcciones.";
 let dato8 = "La acumulación es el acto registral que tiene por objeto constituir una nueva unidad inmobiliaria y se efectúa comprendiendo en una sola, dos o más partidas independientes relativas a otros tantos predios.";
